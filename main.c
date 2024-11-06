@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+   printf("Hello Sir! This is my first GitHub commit.\n");
     return 0;
 }
